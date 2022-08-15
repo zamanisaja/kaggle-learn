@@ -1,11 +1,11 @@
 # Pandas
 
-[https://www.kaggle.com/learn](https://www.kaggle.com/learn)
+[https://www.kaggle.com/learn/pandas](https://www.kaggle.com/learn/pandas)
 
 
 Download the required data with these commands:
 
-```bash
+```
 kaggle datasets download --unzip -d zynicide/wine-reviews -p input/wine-reviews/
 
 kaggle datasets download --unzip -d datasnaek/youtube-new -p input/youtube-new/
