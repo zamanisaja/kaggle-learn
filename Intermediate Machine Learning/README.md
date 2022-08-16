@@ -1,6 +1,6 @@
 # Intermediate Machine Learning
 
-[https://www.kaggle.com/learn/intro-to-machine-learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+[https://www.kaggle.com/learn/intermediate-machine-learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 
 
 Download the required data with these commands:
