@@ -1,4 +1,4 @@
-# Intro to Machine Learning
+# Intermediate Machine Learning
 
 [https://www.kaggle.com/learn/intro-to-machine-learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
